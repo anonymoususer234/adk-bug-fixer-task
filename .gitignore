@@ -1,0 +1,35 @@
+Python
+venv/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+local_settings.py
+
+IDE specific
+.vscode/
+.idea/
+*.suo
+.ntvs
+*.njsproj
+*.sln
+*.sublime-workspace
+
+OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+Log files
+*.log
+logs/
+
+Datasets cache (if accidentally put in project)
+.cache/ 
