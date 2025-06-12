@@ -32,4 +32,4 @@ Log files
 logs/
 
 Datasets cache (if accidentally put in project)
-.cache/ 
+.cache/ __pycache__/
