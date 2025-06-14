@@ -1,1 +1,1 @@
-Intelligent CAT Lab - Agentic Systems Research @ UIUC
+Intelligent CAT Lab Accepted Evaluation Task - Agentic Systems Research @ UIUC
